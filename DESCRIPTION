@@ -12,3 +12,5 @@ Description: Provides an R interface to some of the functionality of the
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/jolars/asy
+BugReports: https://github.com/jolars/asy/issues
